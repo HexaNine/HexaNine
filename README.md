@@ -9,12 +9,11 @@ Hexa9 represents:
 
 We believe in the **power of three minds multiplied**, combining skills to create impactful results for our clients.  
 
-## 👥 Team Members  
-- **Member 1** – [Role/Expertise]  
-- **Member 2** – [Role/Expertise]  
-- **Member 3** – [Role/Expertise]  
+##  Team Members
+- [**Yann Vanneth**](https://github.com/YannVanneth) – Full-Stack Developer  
+- [**Sivkim HENG**](https://github.com/SivkimHENG) – Full-Stack Developer  
+- [**Rin Sanom**](https://github.com/RinSanom) – Full-Stack Developer  
 
-*(Replace with actual names and specialties — e.g., Web Developer, Designer, Data Analyst, etc.)*  
 
 ## 🚀 What We Do  
 We specialize in:  
